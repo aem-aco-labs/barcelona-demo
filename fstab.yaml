@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aem-aco-labs/barcelona-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
